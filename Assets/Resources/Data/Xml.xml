@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Game INFO = "">
+  <Stage>
+    <StageData>
+      <Data Index="0" BG="River" StageTime="43"/>
+      <TimeLineData>
+        <TimePoint>
+          <Data TLD="2"/>
+          <TimePointData>
+            <Item Index="0" Num="1" Time="0.5" Str="Enemy6" P="3" Angle="0" MoveSpeed="1" TurnDirc="-1" FlyTime="3" TurnAngle="0" AngleSpeed="0"/>
+          </TimePointData>
+        </TimePoint>
+
+		  <TimePoint>
+			  <Data TLD="5"/>
+			  <TimePointData>
+				  <Item Index="0" Num="2" Time="0.5" Str="Enemy0" P="2" Angle="0" MoveSpeed="2" TurnDirc="-1" FlyTime="2" TurnAngle="90" AngleSpeed="2"/>
+				  <Item Index="0" Num="2" Time="0.5" Str="Enemy0" P="4" Angle="0" MoveSpeed="2" TurnDirc="1" FlyTime="2" TurnAngle="90" AngleSpeed="2"/>
+			  </TimePointData>
+		  </TimePoint>
+
+
+		  <TimePoint>
+          <Data TLD="10"/>
+          <TimePointData>
+            <Item Index="0" Num="5" Time="0.5" Str="Enemy0" P="2" Angle="0" MoveSpeed="2" TurnDirc="-1" FlyTime="2" TurnAngle="90" AngleSpeed="2"/>
+            <Item Index="0" Num="5" Time="0.5" Str="Enemy0" P="4" Angle="0" MoveSpeed="2" TurnDirc="1" FlyTime="2" TurnAngle="90" AngleSpeed="2"/>
+          </TimePointData>
+        </TimePoint>
+
+
+        <TimePoint>
+          <Data TLD="15"/>
+          <TimePointData>
+            <Item Index="0" Num="1" Time="0.5" Str="Enemy2" P="2" Angle="0" MoveSpeed="2" TurnDirc="-1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+            <Item Index="0" Num="1" Time="0.5" Str="Enemy2" P="4" Angle="0" MoveSpeed="2" TurnDirc="1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+          </TimePointData>
+        </TimePoint> 
+		  
+		  <TimePoint>
+          <Data TLD="20"/>
+          <TimePointData>
+            <Item Index="0" Num="1" Time="0.5" Str="Enemy3" P="2" Angle="0" MoveSpeed="2" TurnDirc="-1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+            <Item Index="0" Num="1" Time="0.5" Str="Enemy3" P="4" Angle="0" MoveSpeed="2" TurnDirc="1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+          </TimePointData>
+        </TimePoint> 
+		  
+		  <TimePoint>
+          <Data TLD="25"/>
+          <TimePointData>
+            <Item Index="0" Num="1" Time="0.5" Str="Enemy4" P="2" Angle="0" MoveSpeed="2" TurnDirc="-1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+            <Item Index="0" Num="1" Time="0.5" Str="Enemy4" P="4" Angle="0" MoveSpeed="2" TurnDirc="1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+          </TimePointData>
+        </TimePoint>
+
+		  <TimePoint>
+			  <Data TLD="30"/>
+			  <TimePointData>
+				  <Item Index="0" Num="1" Time="0.5" Str="Enemy3" P="2" Angle="0" MoveSpeed="2" TurnDirc="-1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+				  <Item Index="0" Num="1" Time="0.5" Str="Enemy3" P="4" Angle="0" MoveSpeed="2" TurnDirc="1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+			  </TimePointData>
+		  </TimePoint>
+
+		  <TimePoint>
+			  <Data TLD="35"/>
+			  <TimePointData>
+				  <Item Index="0" Num="1" Time="0.5" Str="Enemy2" P="2" Angle="0" MoveSpeed="2" TurnDirc="-1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+				  <Item Index="0" Num="1" Time="0.5" Str="Enemy2" P="4" Angle="0" MoveSpeed="2" TurnDirc="1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+			  </TimePointData>
+		  </TimePoint>
+
+		  <TimePoint>
+			  <Data TLD="40"/>
+			  <TimePointData>
+				  <Item Index="0" Num="1" Time="0.5" Str="Enemy1" P="2" Angle="0" MoveSpeed="2" TurnDirc="-1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+				  <Item Index="0" Num="1" Time="0.5" Str="Enemy1" P="4" Angle="0" MoveSpeed="2" TurnDirc="1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+			  </TimePointData>
+		  </TimePoint>
+		  
+		  
+		  <TimePoint>
+          <Data TLD="45"/>
+          <TimePointData>
+            <Item Index="0" Num="1" Time="0.5" Str="Enemy5" P="3" Angle="180" MoveSpeed="2" TurnDirc="-1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+          </TimePointData>
+        </TimePoint>
+      </TimeLineData>
+    </StageData>
+
+
+
+
+    <StageData>
+      <Data Index="1" BG="Desert" StageTime="10"/>
+      <TimeLineData>
+        <TimePoint>
+          <Data TLD="5"/>
+          <TimePointData>
+            <Item Index="0" Num="5" Time="0.5" Str="Enemy0" P="2" Angle="0" MoveSpeed="3" TurnDirc="-1" FlyTime="2" TurnAngle="180" AngleSpeed="2"/>
+            <Item Index="0" Num="5" Time="0.5" Str="Enemy0" P="4" Angle="0" MoveSpeed="3" TurnDirc="1" FlyTime="2" TurnAngle="180" AngleSpeed="2"/>
+          </TimePointData>
+        </TimePoint>
+
+        <TimePoint>
+          <Data TLD="9"/>
+          <TimePointData>
+            <Item Index="0" Num="5" Time="0.5" Str="Enemy1" P="2" Angle="0" MoveSpeed="3" TurnDirc="-1" FlyTime="2" TurnAngle="90" AngleSpeed="2"/>
+            <Item Index="0" Num="5" Time="0.5" Str="Enemy1" P="4" Angle="0" MoveSpeed="3" TurnDirc="1" FlyTime="2" TurnAngle="90" AngleSpeed="2"/>
+          </TimePointData>
+        </TimePoint>
+
+
+        <TimePoint>
+          <Data TLD="15"/>
+          <TimePointData>
+            <Item Index="0" Num="1" Time="0.5" Str="Enemy3" P="2" Angle="0" MoveSpeed="2" TurnDirc="-1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+            <Item Index="0" Num="1" Time="0.5" Str="Enemy3" P="4" Angle="0" MoveSpeed="2" TurnDirc="1" FlyTime="2" TurnAngle="0" AngleSpeed="0"/>
+          </TimePointData>
+        </TimePoint>
+      </TimeLineData>
+    </StageData>
+  </Stage>
+</Game>

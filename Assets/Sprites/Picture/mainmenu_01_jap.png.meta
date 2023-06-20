@@ -1,0 +1,822 @@
+fileFormatVersion: 2
+guid: e0e16b0f14e16e646ba656da78d755fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: mainmenu_01_jap_0
+  - first:
+      213: 21300002
+    second: mainmenu_01_jap_1
+  - first:
+      213: 21300004
+    second: mainmenu_01_jap_2
+  - first:
+      213: 21300006
+    second: mainmenu_01_jap_3
+  - first:
+      213: 21300008
+    second: mainmenu_01_jap_4
+  - first:
+      213: 21300010
+    second: mainmenu_01_jap_5
+  - first:
+      213: 21300012
+    second: mainmenu_01_jap_6
+  - first:
+      213: 21300014
+    second: mainmenu_01_jap_7
+  - first:
+      213: 21300016
+    second: mainmenu_01_jap_8
+  - first:
+      213: 21300018
+    second: mainmenu_01_jap_9
+  - first:
+      213: 21300020
+    second: mainmenu_01_jap_10
+  - first:
+      213: 21300022
+    second: mainmenu_01_jap_11
+  - first:
+      213: 21300024
+    second: mainmenu_01_jap_12
+  - first:
+      213: 21300026
+    second: mainmenu_01_jap_13
+  - first:
+      213: 21300028
+    second: mainmenu_01_jap_14
+  - first:
+      213: 21300030
+    second: mainmenu_01_jap_15
+  - first:
+      213: 21300032
+    second: mainmenu_01_jap_16
+  - first:
+      213: 21300034
+    second: mainmenu_01_jap_17
+  - first:
+      213: 21300036
+    second: mainmenu_01_jap_18
+  - first:
+      213: 21300038
+    second: mainmenu_01_jap_19
+  - first:
+      213: 21300040
+    second: mainmenu_01_jap_20
+  - first:
+      213: 21300042
+    second: mainmenu_01_jap_21
+  - first:
+      213: 21300044
+    second: mainmenu_01_jap_22
+  - first:
+      213: 21300046
+    second: mainmenu_01_jap_23
+  - first:
+      213: 21300048
+    second: mainmenu_01_jap_24
+  - first:
+      213: 21300050
+    second: mainmenu_01_jap_25
+  - first:
+      213: 21300052
+    second: mainmenu_01_jap_26
+  - first:
+      213: 21300054
+    second: mainmenu_01_jap_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mainmenu_01_jap_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 158
+        width: 337
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ed2f18ccb578940ab86f99e8402b50
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 411
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b2c34af488f644699aee0774bd5b60
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 453
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0628c453202f4748b67eda0b78e5685
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 309
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e541b673e8a3a54db4b36229fd777d3
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 393
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8306b20c3b4e4419063ff1f5a8b773
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_5
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 333
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b727521bb9405a40bc6fc481d12ba1c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 316
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9222333c158f8408d91dce9f9252c5
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 316
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f505a7308aff8458f90ef153a050d8
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 225
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb9bd4439924d7469b1489706c7b9e3
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 225
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48438186392c7d344b6523cc56378f2d
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 165
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797c3aa871a1ae647ab4a5f8634b5633
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 141
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca40ff46014c4743a92e3df70c6d8b4
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 70
+        width: 354
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6130a6373dcd02c45946d5c4f518f22a
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 122
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c816e760e6a774fb39af7b0095410f
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 94
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c01350d37ebbd4f8beea74c149519e
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_15
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 92
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98be3efcb295bcb4d93d4cf8371925e0
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 20
+        width: 201
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03e1068823058a49883ca43b4f01c8b
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 28
+        width: 89
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f12fe968bc725043a10757adab788e3
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 30
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90624156fcc452408b2d8a4d9ca9466
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 62
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70477d572b8fb1b4cb31ead7a6d94b06
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 60
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c9d8c44e24af468c6e17348010923
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 21
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa224c8182c76314c9bd186fbdf152e5
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f12734cd30fb9f4ebc621cc19e4f4a8
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 29
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1010fdc5a2764b943ae6ac3b0e72a96a
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc572077f46f38643909b615d1bc47ed
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_25
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 13
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc8981aa7c76eb48a511097ede48ef1
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_26
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 13
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14549c74b29c304db491bb07a7f3ec3
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmenu_01_jap_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 90
+        width: 71
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03a2efcfec0f094f8cbafc5838b30aa
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c41612db462b444b9f0d79d4552085f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mainmenu_01_jap_1: 21300002
+      mainmenu_01_jap_21: 21300042
+      mainmenu_01_jap_8: 21300016
+      mainmenu_01_jap_23: 21300046
+      mainmenu_01_jap_12: 21300024
+      mainmenu_01_jap_18: 21300036
+      mainmenu_01_jap_2: 21300004
+      mainmenu_01_jap_27: 21300054
+      mainmenu_01_jap_15: 21300030
+      mainmenu_01_jap_7: 21300014
+      mainmenu_01_jap_0: 21300000
+      mainmenu_01_jap_11: 21300022
+      mainmenu_01_jap_9: 21300018
+      mainmenu_01_jap_24: 21300048
+      mainmenu_01_jap_14: 21300028
+      mainmenu_01_jap_22: 21300044
+      mainmenu_01_jap_16: 21300032
+      mainmenu_01_jap_17: 21300034
+      mainmenu_01_jap_19: 21300038
+      mainmenu_01_jap_6: 21300012
+      mainmenu_01_jap_10: 21300020
+      mainmenu_01_jap_5: 21300010
+      mainmenu_01_jap_13: 21300026
+      mainmenu_01_jap_20: 21300040
+      mainmenu_01_jap_4: 21300008
+      mainmenu_01_jap_3: 21300006
+      mainmenu_01_jap_25: 21300050
+      mainmenu_01_jap_26: 21300052
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
